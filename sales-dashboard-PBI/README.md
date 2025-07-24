@@ -4,6 +4,14 @@ This is a beginner-friendly data visualization project created using **Microsoft
 
 ---
 
+## 🚀 How to Use
+
+1. Download and open the `SalesDashboard.pbix` file using Power BI Desktop.
+2. View or modify the visuals and interact with filters.
+3. Use the dataset (`sales_data_powerbi.csv`) to recreate or extend the dashboard.
+
+---
+
 ## 📊 Features Included
 
 - ✅ **Total Sales** (KPI Card)
@@ -32,14 +40,6 @@ The dataset contains fictional sales records with fields such as:
 - **Power BI Desktop**
 - **Excel / CSV**
 - Data Modeling & DAX (Basic)
-
----
-
-## 🚀 How to Use
-
-1. Download and open the `SalesDashboard.pbix` file using Power BI Desktop.
-2. View or modify the visuals and interact with filters.
-3. Use the dataset (`sales_data_powerbi.csv`) to recreate or extend the dashboard.
 
 ---
 
